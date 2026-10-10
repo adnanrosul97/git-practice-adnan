@@ -1,9 +1,14 @@
 # Git Practice Project
 
-**Author:** Adnan Rosul
+A simple Python calculator demonstrating Git and GitHub version control.
 
-## Project Description
+# Author
 
-This project demonstrates Git and GitHub version control using a simple Python application.
+Adnan Rosul
 
-The project will include basic calculator functions and error handling.
+## Features
+
+- Display the author's name
+- Display the current date
+- Perform addition
+- Perform subtraction
