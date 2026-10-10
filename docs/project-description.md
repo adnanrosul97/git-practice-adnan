@@ -1,5 +1,10 @@
-This project is created to practice Git and GitHub.
+This project demonstrates essential Git and GitHub operations through a Python calculator.
 
-The application is written in Python.
+## Objectives
 
-The project will demonstrate basic version control operations.
+1. Create and initialize a Git repository.
+2. Track project changes using commits.
+3. Develop features using separate branches.
+4. Merge feature branches into main.
+5. Push source code to GitHub.
+
